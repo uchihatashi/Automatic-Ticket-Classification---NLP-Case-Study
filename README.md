@@ -50,3 +50,14 @@ You need to perform the following eight major tasks to complete the assignment:
 6. Model building using supervised learning
 7. Model training and evaluation
 8. Model inference
+
+| S.no |  Model    |  F1 Score    |
+| ----- | ------------------- | ---- |
+| 0     | Naive Bayes         | 0.76 |
+| 1     | **Logistic Regression** | 0.94 |
+| 2     | Decision Tree       | 0.84 |
+| 3     | Random Forest       | 0.72 |
+
+
+### As per the **F1 score** of all the 4 models, **Logistic Regression** performs best with F1 score : **0.94**
+
